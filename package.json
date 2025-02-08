@@ -38,9 +38,9 @@
   },
   "homepage": "https://github.com/davidnguyen179/web-extension-boilerplate#readme",
   "devDependencies": {
-    "@babel/core": "7.12.17",
-    "@babel/preset-env": "7.12.11",
-    "@babel/preset-typescript": "7.12.7",
+    "@babel/core": "7.26.8",
+    "@babel/preset-env": "7.26.8",
+    "@babel/preset-typescript": "7.26.0",
     "@types/chrome": "0.0.224",
     "@types/jest": "26.0.24",
     "@types/node": "14.14.20",
